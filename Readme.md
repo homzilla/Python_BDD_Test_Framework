@@ -3,7 +3,20 @@
 This repository contains automated test scenarios for the Applitools demo web application using Python, Selenium, and Behave. 
 The tests cover various features of the application such as login, expenses, chart display, and dynamic content.
 
+### Requirements
 
+To run the tests locally, you'll need the following:
+
+`Python 3`
+
+`Pip (the package installer for Python)`
+
+`Chrome or Firefox web browser`
+
+`ChromeDriver or GeckoDriver (the WebDriver for Chrome or Firefox)`
+
+You can download `ChromeDriver` from the official website, and `GeckoDriver` from the Mozilla GitHub repository.
+Make sure to add the WebDriver executable to your  system's PATH environment variable so that it can be found by Selenium.
 ### Getting Started
 
 To get started with the project, you will need to have Python 3 and the Chrome web browser installed on your system. You can install the necessary Python packages by running the following command in your terminal:
