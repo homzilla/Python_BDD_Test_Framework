@@ -1,14 +1,16 @@
-This repository contains an automated testing framework for the web application located at 
-[https://demo.applitools.com/hackathon.html]
-This repository contains an automated testing framework for the web application located at https://demo.applitools.com/hackathon.html. 
+This repository contains an automated testing framework for the web application located at https://demo.applitools.com/hackathon.html.
+
 The framework uses Python as the programming language, Selenium for UI testing, and Behave for BDD-style test scenarios.
 
 Prerequisites
 Before running the tests, make sure you have the following installed on your system:
 
 Python 3
+
 Google Chrome browser
+
 Installation
+
 To install the necessary Python packages, run the following command in the project directory:
 
 
