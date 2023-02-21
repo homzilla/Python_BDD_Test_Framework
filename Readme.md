@@ -11,6 +11,10 @@ To run the tests locally, you'll need the following:
 
 `Pip (the package installer for Python)`
 
+`Selenium`
+
+`Bevave`
+
 `Chrome or Firefox web browser`
 
 `ChromeDriver or GeckoDriver (the WebDriver for Chrome or Firefox)`
